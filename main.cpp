@@ -4,7 +4,6 @@
 #include <iomanip>
 #include <cstdlib>
 #include "Tablero.h"
-#include "Tablero.cpp"
 #include "Piezas.h"
 #include "Peones.h"
 #include "Alfiles.h"

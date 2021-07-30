@@ -1,5 +1,5 @@
-#ifndef Caballos_H
-#define Caballos_H
+#ifndef CABALLOS_H
+#define CABALLOS_H
 #include<string>
 #include "Piezas.h"
 using namespace std;

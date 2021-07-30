@@ -1,5 +1,6 @@
-#ifndef Tablero_H
-#define Tablero_H
+#ifndef TABLERO_H
+#define TABLERO_H
+
 #include<string>
 #include<vector> 
 #include "Piezas.h"

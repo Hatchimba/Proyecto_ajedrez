@@ -1,10 +1,11 @@
+#ifndef TABLERO_CPP
+#define TABLERO_CPP
 #include<iostream>
 #include<string>
 #include<vector>
 #include <iomanip>
 #include <cstdlib>
 #include "Tablero.h"
-#include "Piezas.h"
 #include "Peones.h"
 #include "Alfiles.h"
 #include "Torres.h"
@@ -452,7 +453,5 @@ bool Tablero::comer_ficha(vector<Piezas*> pieza_o, vector<Piezas*> pieza_d, stri
 	return false; 
 }
 
-bool Tablero::entorno_movimiento(){
-	
-}
+#endif
 

@@ -1,0 +1,3 @@
+C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir
+C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/rebuild_cache.dir

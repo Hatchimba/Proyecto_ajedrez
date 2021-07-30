@@ -1,5 +1,5 @@
-#ifndef Alfiles_H
-#define Alfiles_H
+#ifndef ALFILES_H
+#define ALFILES_H
 #include<string>
 #include "Piezas.h"
 using namespace std;

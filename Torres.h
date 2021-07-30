@@ -1,5 +1,5 @@
-#ifndef Torres_H
-#define Torres_H
+#ifndef TORRES_H
+#define TORRES_H
 #include<string>
 #include "Piezas.h"
 using namespace std;
