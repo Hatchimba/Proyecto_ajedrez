@@ -1,0 +1,1 @@
+s_blancas, vector<Piezas*> piezas_negras, string id1, string id2){
