@@ -1,3 +1,3 @@
-C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/cmake-build-debug/CMakeFiles/ajedrezzz.dir
-C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/ajedrezzz.dir
+C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
