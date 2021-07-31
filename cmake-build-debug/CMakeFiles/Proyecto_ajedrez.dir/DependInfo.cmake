@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Tablero.cpp" "C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/Tablero.cpp.obj"
-  "C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/main.cpp" "C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/main.cpp.obj"
+  "C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.cpp" "C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/Tablero.cpp.obj"
+  "C:/Users/as/CLionProjects/Proyecto_ajedrez/main.cpp" "C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
