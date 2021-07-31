@@ -4,14 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.cpp" "C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/Tablero.cpp.obj"
-  "C:/Users/as/CLionProjects/Proyecto_ajedrez/main.cpp" "C:/Users/as/CLionProjects/Proyecto_ajedrez/cmake-build-debug/CMakeFiles/Proyecto_ajedrez.dir/main.cpp.obj"
+  "C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Tablero.cpp" "C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/cmake-build-debug/CMakeFiles/ajedrezzz.dir/Tablero.cpp.obj"
+  "C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/main.cpp" "C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/cmake-build-debug/CMakeFiles/ajedrezzz.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../."
   )
 
 # Targets to which this target links.

@@ -1,0 +1,112 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Alfiles.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Caballos.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Peones.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+string
+-
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reinas.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reyes.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Tablero.cpp
+iostream
+-
+string
+-
+vector
+-
+iomanip
+-
+cstdlib
+-
+Tablero.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Tablero.h
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+Peones.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Peones.h
+Alfiles.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Alfiles.h
+Torres.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Torres.h
+Caballos.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Caballos.h
+Reyes.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reyes.h
+Reinas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reinas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Tablero.h
+string
+-
+vector
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Torres.h
+string
+-
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/main.cpp
+iostream
+-
+string
+-
+vector
+-
+iomanip
+-
+cstdlib
+-
+Tablero.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Tablero.h
+Piezas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Piezas.h
+Peones.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Peones.h
+Alfiles.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Alfiles.h
+Torres.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Torres.h
+Caballos.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Caballos.h
+Reyes.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reyes.h
+Reinas.h
+C:/Users/Dom/Desktop/utec/1 ciclo/ajedrezzz/Reinas.h
+
