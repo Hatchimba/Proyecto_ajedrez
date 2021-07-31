@@ -1,5 +1,5 @@
-#ifndef PIEZAS_H
-#define PIEZAS_H
+#ifndef Piezas_H
+#define Piezas_H
 #include <string> 
 using namespace std;
 class Piezas{

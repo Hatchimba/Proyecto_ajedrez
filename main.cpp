@@ -4,6 +4,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include "Tablero.h"
+#include "Tablero.cpp"
 #include "Piezas.h"
 #include "Peones.h"
 #include "Alfiles.h"
@@ -31,7 +32,7 @@ void juego(Tablero ajedrez){
 	string id1, id2;  
 	while (true){
 		cout << endl << "         Ajedrez"; 
-		cout << endl << "1. Iniciar un juego normal" << endl << "2. Iniciar un juego de practica" << endl
+		cout << endl << "1. Iniciar un juego normal" << endl
 		<< "0. Salir de la aplicacion" << endl; 
 		cout << "Ingresar seleccion: ";
 		cin >> seleccion; 
@@ -86,8 +87,6 @@ void juego(Tablero ajedrez){
 			ajedrez.generar_tablero_original(piezas_blancas, piezas_negras);
 			system("pause");
 			seleccion_1(ajedrez, piezas_blancas, piezas_negras, id1, id2); 
-		} else if(seleccion == 2){
-			cout << "g";
 		} else if(seleccion == 0){
 			break;
 		}
@@ -98,9 +97,15 @@ void seleccion_1(Tablero ajedrez, vector<Piezas*> piezas_blancas, vector<Piezas*
 	ajedrez.mostrar_tablero();
 	string origen, destino; 
 	int jugador = 0; 
+	int ganador; 
 	int ficha_movida, lugar_objetivo; 
 	bool movimiento; 
 	while (true){
+		if (jugador == 0){
+			cout << endl << "Turno jugador blanco" << endl;
+		} else if (jugador == 1){
+			cout << endl << "Turno jugador negro" << endl;
+		}
 		cout << endl << "Movimiento" << endl << "Origen: ";
 		cin >> origen; 
 		cout << "Destinto: ";
@@ -152,13 +157,28 @@ void seleccion_1(Tablero ajedrez, vector<Piezas*> piezas_blancas, vector<Piezas*
 				cout << "Jugada invalida negro" << endl; 
 			}
 		}
-		cout << endl << "Piezas blancas" << endl; 
 		for (int i = 0; i < piezas_blancas.size(); i++){
-			cout << piezas_blancas.at(i)->get_x() << " " << piezas_blancas.at(i)->get_y() << endl; 
+			if (piezas_blancas.at(i)->get_id_ficha() == "KB") {
+				ganador = 0; 
+				break; 
+			} else {
+				ganador = 2; 
+			}
 		}
-		cout << endl << "Piezas Negras" << endl; 
 		for (int i = 0; i < piezas_negras.size(); i++){
-			cout << piezas_negras.at(i)->get_x() << " " << piezas_negras.at(i)->get_y() << endl; 
+			if (piezas_negras.at(i)->get_id_ficha() == "KN") {
+				ganador = 0; 
+				break; 
+			} else {
+				ganador = 1; 
+			}
+		}
+		if (ganador == 1){
+			cout << endl<< "El jugador de las fichas blancas gano" << endl;
+			break; 
+		} else if(ganador == 2){
+			cout << endl<< "El jugador de las fichas negras gano" << endl;
+			break; 
 		}
 		ajedrez.mostrar_tablero();
 		system("pause"); 

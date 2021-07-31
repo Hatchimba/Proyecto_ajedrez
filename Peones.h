@@ -1,5 +1,5 @@
-#ifndef PEONES_H
-#define PEONES_H
+#ifndef Peones_H
+#define Peones_H
 #include<string>
 #include "Piezas.h"
 using namespace std;

@@ -1,5 +1,5 @@
-#ifndef REINAS_H
-#define REINAS_H
+#ifndef Reinas_H
+#define Reinas_H
 #include<string>
 #include "Piezas.h"
 using namespace std;
