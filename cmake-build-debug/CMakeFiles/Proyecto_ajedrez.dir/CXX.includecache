@@ -6,55 +6,41 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Alfiles.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Alfiles.h
 string
 -
 Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Caballos.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Caballos.h
 string
 -
 Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Peones.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Peones.h
 string
 -
 Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 string
 -
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Reinas.h
-string
--
-Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
-
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Reyes.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reinas.h
 string
 -
 Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Tablero.h
-string
--
-vector
--
-Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
-
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Torres.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reyes.h
 string
 -
 Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
 
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/main.cpp
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.cpp
 iostream
 -
 string
@@ -66,19 +52,59 @@ iomanip
 cstdlib
 -
 Tablero.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Tablero.h
-Piezas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.h
 Peones.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Peones.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Peones.h
 Alfiles.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Alfiles.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Alfiles.h
 Torres.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Torres.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Torres.h
 Caballos.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Caballos.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Caballos.h
 Reyes.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Reyes.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reyes.h
 Reinas.h
-C:/Users/Dom/Desktop/utec/2 ciclo/Proyecto_ajedrez/Reinas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reinas.h
+
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.h
+string
+-
+vector
+-
+Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
+
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Torres.h
+string
+-
+Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
+
+C:/Users/as/CLionProjects/Proyecto_ajedrez/main.cpp
+iostream
+-
+string
+-
+vector
+-
+iomanip
+-
+cstdlib
+-
+Tablero.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Tablero.h
+Piezas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Piezas.h
+Peones.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Peones.h
+Alfiles.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Alfiles.h
+Torres.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Torres.h
+Caballos.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Caballos.h
+Reyes.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reyes.h
+Reinas.h
+C:/Users/as/CLionProjects/Proyecto_ajedrez/Reinas.h
 

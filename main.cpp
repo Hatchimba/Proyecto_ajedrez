@@ -1,3 +1,7 @@
+//Grupo 7
+//Nombres y apellidos: Jorge Zuñiga Garay | Código de alumno:201920100
+//Nombres y apellidos: Jhefferson Paredes Coronado | Código de alumno:202020120
+//Nombres y apellidos: Sebastián Lizarraga Calderón | Código de alumno:
 #include<iostream>
 #include<string>
 #include<vector>
